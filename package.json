@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tranvinh146/learn-serverless#readme",
   "devDependencies": {
     "node-fetch": "^3.3.1"
+  },
+  "dependencies": {
+    "@netlify/functions": "^1.4.0"
   }
 }
